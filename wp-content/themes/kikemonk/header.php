@@ -20,12 +20,18 @@
 </head>
 
 <body <?php body_class(); ?>>
-  <header class="py-4 shadow relative z-50">
-    <div class="container xl flex justify-between items-center mx-auto px-4 sm:px-0">
-      <a href="<?= get_bloginfo('url') ?>" class="logo">
-        Kikemonk
-      </a>
-
-      <a href="/styleguide" class="m-0 btn btn-large btn-primary">Styleguide</a>
+  <header>
+    <div class="container flex items-center">
+      <div class= "logo">
+        <a href="<?= bloginfo('url')?>">
+          <img src="<?= bloginfo('template_url')?>/assets/img/logos/safer2.png"  alt="">
+        </a>
+       </div>
+        <div class='button_container'>
+          <a href="/" class="btn btn-primary btn-large">
+            Contact Us
+          </a>
+        </div>
     </div>
   </header>
+ 
