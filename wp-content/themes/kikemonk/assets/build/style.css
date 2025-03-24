@@ -1381,8 +1381,57 @@ ol li:before {
   }
 }
 
+.top-footer {
+  padding-top: 30px;
+}
+
+.logo-container {
+  padding-top: 20px;
+}
+.logo-container img {
+  width: 400px;
+}
+
+.textfooter-container {
+  width: 400px;
+  padding: 40px;
+}
+.textfooter-container p {
+  text-align: justify;
+  font-size: 15px !important;
+}
+
 .list-container {
-  background-color: green;
+  padding: 20px;
+}
+.list-container li {
+  padding: 15px;
+  text-align: left;
+  font-size: 15px;
+}
+.list-container li:before {
+  content: none;
+}
+.list-container i {
+  padding-right: 5px;
+}
+
+.safer-container h2 {
+  font-size: 20px !important;
+  font-weight: bold !important;
+  text-align: left;
+}
+
+.bottom-footer {
+  background-color: #4050c6;
+  padding: 20px;
+}
+.bottom-footer p {
+  color: white;
+  text-align: center !important;
+  font-weight: bold;
+  font-size: 18px !important;
+  padding: 20px;
 }
 
 .card {
