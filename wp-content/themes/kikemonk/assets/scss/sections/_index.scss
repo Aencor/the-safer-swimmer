@@ -1,0 +1,23 @@
+.card{
+  border:1px solid $primaryColor;
+  border-radius: 20px;
+}
+
+.image-container{
+  height: 200px;
+  padding: 20px;
+}
+
+.text-container{
+  text-align: center; 
+  padding: 15px; 
+}
+
+.title-container{
+  h2{background-color: $primaryColor;
+    padding: 10px;
+    color:white;
+    font-weight: bold;
+    font-size: 30px !important;
+  }
+}

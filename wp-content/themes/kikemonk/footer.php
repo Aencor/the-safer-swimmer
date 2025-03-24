@@ -7,7 +7,7 @@
               </div> 
             </div>
           <div class="list-container">
-              <div class="title-container">
+              <div class="safer-container">
                 <h2> The Safer Swimmer</h2>
               </div>
             <div class="list-container">

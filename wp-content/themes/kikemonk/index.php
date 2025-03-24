@@ -11,47 +11,47 @@
         </div>
         <div class="cards-container grid grid-cols-2 gap-8 max-w-screen-lg mx-auto">
             <div class="card">
-                <div class="image-container">
-                    <img src="<?= bloginfo('template_url')?>/assets/img/logos/premier_aquatics_vector_file.png" alt="">
+                <div class="image-container flex items-center justify-center">
+                    <img class="max-h-full" src="<?= bloginfo('template_url')?>/assets/img/logos/premier_aquatics_vector_file.png" alt="">
                 </div>
                 <div class="title-container">
-                    <h1 class="text-center">Premier Aquatics</h1>
+                    <h2 class="text-center">Premier Aquatics</h2>
                     <div class="text-container">
-                        <p>Beginning in 2023, Premier Aquatics refocused its core service to deliver lifeguard services to private organizations, cities, HOAs, municipalities, and governmentagencies.</p>
+                        <p class="lead">Beginning in 2023, Premier Aquatics refocused its core service to deliver lifeguard services to private organizations, cities, HOAs, municipalities, and governmentagencies.</p>
                     </div>
                 </div>
             </div>
             <div class="card">
-                <div class="image-container">
-                    <img src="<?= bloginfo('template_url')?>/assets/img/logos/Health_and_Safety.png" alt="">
+                <div class="image-container flex items-center justify-center">
+                    <img class="max-h-full" src="<?= bloginfo('template_url')?>/assets/img/logos/Health_and_Safety.png" alt="">
                 </div>
                 <div class="title-container">
-                    <h1 class="text-center">Premier Health & Safety</h1>
+                    <h2 class="text-center">Premier Health & Safety</h2>
                     <div class="text-container">
-                    <p>Premier Health and Safety offers training for both public and private groups, including lifeguard certification through the American Red Cross and StarGuard Elite, as well as CPR/AED and first aid training. Private training courses are available upon request.</p>
+                    <p class="lead">Premier Health and Safety offers training for both public and private groups, including lifeguard certification through the American Red Cross and StarGuard Elite, as well as CPR/AED and first aid training. Private training courses are available upon request.</p>
                     </div>
                 </div>
             </div>
 
             <div class="card">
-                <div class="image-container">
-                    <img src="<?= bloginfo('template_url')?>/assets/img/logos/PSA_Logo.png" alt="">
+                <div class="image-container flex items-center justify-center">
+                    <img class="max-h-full" src="<?= bloginfo('template_url')?>/assets/img/logos/PSA_Logo.png" alt="">
                 </div>
                 <div class="title-container">
-                    <h1 class="text-center">Premier Swim Academy</h1>
+                    <h2 class="text-center">Premier Swim Academy</h2>
                     <div class="text-container">
-                        <p>Premier Swim Academy offers swim schools and programs at our main locations in Aliso Viejo, Diamond Bar, and Rancho Cucamonga, along with seasonal programs across California, Arizona, and Utah.</p>
+                        <p class="lead">Premier Swim Academy offers swim schools and programs at our main locations in Aliso Viejo, Diamond Bar, and Rancho Cucamonga, along with seasonal programs across California, Arizona, and Utah.</p>
                     </div>
                 </div>
             </div>
             <div class="card">
-                <div class="image-container">
-                    <img src="<?= bloginfo('template_url')?>/assets/img/logos/The_Pool_Pros_Logo.png" alt="">
+                <div class="image-container flex items-center justify-center">
+                    <img class="max-h-full" src="<?= bloginfo('template_url')?>/assets/img/logos/The_Pool_Pros_Logo.png" alt="">
                 </div>
                 <div class="title-container">
-                    <h1 class="text-center">The Pool Pros</h1>
+                    <h2 class="text-center">The Pool Pros</h2>
                     <div class="text-container">
-                        <p>The Pool Pros provides maintenance and repair services to commercial facilitiesand residential homes through Orange County</p>
+                        <p class="lead">The Pool Pros provides maintenance and repair services to commercial facilitiesand residential homes through Orange County</p>
                     </div>
                 </div>
             </div>
