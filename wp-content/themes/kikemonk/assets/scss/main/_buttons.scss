@@ -25,9 +25,16 @@
   font-weight: 700;
   transition: .2s;
   border-radius: 100px;
+  &:visited{
+    text-decoration: none;
+    color: $white !important;
+  }
   &:hover{
     background-color: $white;
     color: $primaryColor !important;
+  }
+  &:active{
+    color: $white;
   }
 }
 
