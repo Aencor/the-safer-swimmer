@@ -8,7 +8,7 @@
                 </div> 
             </div>
             <div class="list-container">
-                <div class="safer-container">
+                <div class="contact-container">
                   <h2> The Safer Swimmer</h2>
                 </div>
               <div class="list-container flex">
