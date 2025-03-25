@@ -1,7 +1,7 @@
 <?php get_header(); ?>
 <main class="global-main py-5">
     <div class="container xl mx-auto px-4 sm:px-0">
-        <div class="info_container max-w-screen-lg mx-auto mb-24">
+        <div class="info-container max-w-screen-lg mx-auto mb-24">
             <h1 class="text-center">Welcome to The Safer Swimmer</h1>
             <p class="lead">The Safer Swimmer was founded in 2023 as the formal parent company of Premier Aquatics, uniting a dedicated management team to oversee operations, HR, marketing, finance, and executive leadership.</p>
             <p class="lead">In 2011, Dan Berzansky founded Premier Recreation Services as a full-service aquatic and recreation programming company. In its firs year, Premier Recreation Services began with two contracts—Emerald Bay Community Association and the City of Aliso Viejo—offering summer camp programming, after-school activities, event planning, lifeguard services, swim lessons, and swim team programs.</p>

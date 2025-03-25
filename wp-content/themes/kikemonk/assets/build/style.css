@@ -1443,8 +1443,14 @@ ol li:before {
   color: white;
   text-align: center !important;
   font-weight: bold;
-  font-size: 18px !important;
-  padding: 20px;
+  font-size: 14px !important;
+  margin-bottom: 0;
+}
+
+header {
+  padding: 30px 0;
+  border-bottom: 1px solid #4050c6;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
 }
 
 .card {
@@ -1455,6 +1461,10 @@ ol li:before {
 .image-container {
   height: 200px;
   padding: 20px;
+}
+
+.info-container {
+  margin-top: 50px;
 }
 
 .text-container {

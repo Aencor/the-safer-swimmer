@@ -22,10 +22,10 @@
 
 <body <?php body_class(); ?>>
   <header>
-    <div class="container flex items-center">
+    <div class="container flex justify-between items-center mx-auto max-w-screen-lg">
       <div class= "logo">
         <a href="<?= bloginfo('url')?>">
-          <img src="<?= bloginfo('template_url')?>/assets/img/logos/safer2.png"  alt="">
+          <img style="width: 200px;" src="<?= bloginfo('template_url')?>/assets/img/logos/safer2.png"  alt="">
         </a>
        </div>
         <div class='button_container'>
