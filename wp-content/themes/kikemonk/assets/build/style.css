@@ -736,7 +736,7 @@ a {
 }
 a:hover, a:focus {
   text-decoration: underline;
-  color: #4050c6 !important;
+  color: #2A3A6F !important;
 }
 a:active {
   color: #071E3C !important;
@@ -805,7 +805,7 @@ blockquote {
   box-sizing: border-box;
   display: block;
   width: 100%;
-  border-left: 4px solid #4050c6;
+  border-left: 4px solid #2A3A6F;
 }
 blockquote .byline {
   font-size: 16px;
@@ -837,15 +837,15 @@ p.small {
 }
 
 .content-styled a {
-  color: #4050c6;
+  color: #2A3A6F;
   transition: 0.3s ease-out;
 }
 .content-styled a:hover {
-  color: rgb(54.3568548387, 69.6149193548, 182.1431451613);
+  color: rgb(35, 48.3333333333, 92.5);
   text-decoration: none;
 }
 .content-styled a:active {
-  color: rgb(83.6391129032, 97.9939516129, 203.8608870968);
+  color: rgb(49, 67.6666666667, 129.5);
   text-decoration: none;
 }
 .content-styled ul {
@@ -860,7 +860,7 @@ p.small {
   margin-bottom: 1.5rem;
   width: 100%;
   height: 1px;
-  background-color: #4050c6;
+  background-color: #2A3A6F;
 }
 .content-styled img.alignleft {
   float: left;
@@ -1045,7 +1045,7 @@ ul li:before {
   width: 6px;
   height: 6px;
   border-radius: 100%;
-  background-color: #4050c6;
+  background-color: #2A3A6F;
   position: absolute;
   left: 0;
   top: 5px;
@@ -1071,7 +1071,7 @@ ol li {
   position: relative;
 }
 ol li:before {
-  color: #4050c6;
+  color: #2A3A6F;
   content: "" counter(item) "";
   display: inline-block;
   left: 10px;
@@ -1120,8 +1120,8 @@ ol li:before {
 }
 
 .btn-primary {
-  background-color: #4050c6;
-  border-color: #4050c6;
+  background-color: #2A3A6F;
+  border-color: #2A3A6F;
   color: #FFF !important;
   font-weight: 700;
   transition: 0.2s;
@@ -1133,7 +1133,7 @@ ol li:before {
 }
 .btn-primary:hover {
   background-color: #FFF;
-  color: #4050c6 !important;
+  color: #2A3A6F !important;
 }
 .btn-primary:active {
   color: #FFF;
@@ -1147,14 +1147,14 @@ ol li:before {
   transition: 0.2s;
 }
 .btn-secondary:hover {
-  background-color: #4050c6;
-  border-color: #4050c6;
+  background-color: #2A3A6F;
+  border-color: #2A3A6F;
   color: #FFF !important;
 }
 
 .btn-tertiary {
-  background-color: #4050c6;
-  border-color: #4050c6;
+  background-color: #2A3A6F;
+  border-color: #2A3A6F;
   color: #FFF !important;
   transition: 0.2s;
   border-radius: 2px;
@@ -1162,7 +1162,7 @@ ol li:before {
 .btn-tertiary:hover {
   background-color: #FFF;
   border-color: rgba(64, 80, 198, 0.5);
-  color: #4050c6 !important;
+  color: #2A3A6F !important;
 }
 
 .dark-bg .btn-primary {
@@ -1174,7 +1174,7 @@ ol li:before {
   background-color: transparent !important;
 }
 .dark-bg .btn-secondary {
-  color: #4050c6 !important;
+  color: #2A3A6F !important;
 }
 .dark-bg .btn-secondary:hover {
   background-color: transparent !important;
@@ -1185,13 +1185,13 @@ ol li:before {
   border-color: #FFF !important;
 }
 .dark-bg .btn-tertiary:hover {
-  color: #4050c6 !important;
+  color: #2A3A6F !important;
   background-color: white !important;
 }
 
 .bg-primary {
   color: #FFF;
-  background-color: #4050c6;
+  background-color: #2A3A6F;
 }
 
 .bg-secondary {
@@ -1205,7 +1205,7 @@ ol li:before {
 }
 
 .dark-bg {
-  background-color: #4050c6;
+  background-color: #2A3A6F;
 }
 .dark-bg h1, .dark-bg h2, .dark-bg h3, .dark-bg h4, .dark-bg h5, .dark-bg h6, .dark-bg p {
   color: #FFF !important;
@@ -1293,7 +1293,7 @@ ol li:before {
 }
 #styleguide .dark-bg {
   display: block;
-  background-color: #4050c6;
+  background-color: #2A3A6F;
   padding: 85px 0 100px 0;
 }
 #styleguide .buttons-module {
@@ -1372,7 +1372,7 @@ ol li:before {
 }
 
 .cta-label-block {
-  background-color: #4050c6;
+  background-color: #2A3A6F;
 }
 .cta-label-block .cta-text h5 {
   margin-bottom: 0 !important;
@@ -1425,7 +1425,7 @@ ol li:before {
 }
 .list-container i {
   padding-right: 8px;
-  color: #4050c6;
+  color: #2A3A6F;
 }
 
 .contact-container h2 {
@@ -1436,7 +1436,7 @@ ol li:before {
 }
 
 .bottom-footer {
-  background-color: #4050c6;
+  background-color: #2A3A6F;
   padding: 20px;
 }
 .bottom-footer p {
@@ -1449,12 +1449,12 @@ ol li:before {
 
 header {
   padding: 30px 0;
-  border-bottom: 1px solid #4050c6;
+  border-bottom: 1px solid #2A3A6F;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
 }
 
 .card {
-  border: 1px solid #4050c6;
+  border: 1px solid #2A3A6F;
   border-radius: 20px;
 }
 
@@ -1473,7 +1473,7 @@ header {
 }
 
 .title-container h2 {
-  background-color: #4050c6;
+  background-color: #2A3A6F;
   padding: 10px;
   color: white;
   font-weight: bold;
